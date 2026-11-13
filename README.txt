@@ -1,7 +1,11 @@
-ABDURRAHMAN ABDULKABIR PORTFOLIO
+ABDURRAHMAN ABDULKABIR — PORTFOLIO
 
-1. Open index.html in a browser to preview the portfolio.
-2. Upload the whole folder (index.html and images) to a static hosting service such as Netlify, Vercel, or GitHub Pages.
-3. Use the resulting public URL in job application forms under "Portfolio / Website".
+Preview: open index.html in a browser.
 
-Before publishing, verify your phone number, LinkedIn URL, GitHub URL, and project links.
+Files: index.html plus the four .webp images (headshot, cleango, tcube,
+pipersoft). Keep them in the same folder; the page loads them by filename.
+
+Publish: upload the whole folder to GitHub Pages, Netlify or Vercel, then
+use the public URL under "Portfolio / Website" in job applications.
+
+Before publishing, check the email, LinkedIn, GitHub and project links.
